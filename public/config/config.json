@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x97f7Cc7a52499BF360311Ac6Dc5CE26fBaFfEf0A",
+  "SCAN_LINK": "hhttps://mumbai.polygonscan.com/address/0x97f7cc7a52499bf360311ac6dc5ce26fbaffef0a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Society Of Devirative Soths",
+  "SYMBOL": "SODS",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/society-of-derivative-sloths",
+  "SHOW_BACKGROUND": true
+}
